@@ -83,7 +83,7 @@ function create_config( )
 	        "fun"
 	},
     sudo_users = {
-   157059515,
+   104280701,
    sudo_id
 },
     admins = {},
@@ -92,13 +92,13 @@ function create_config( )
     info_text = [[》Protection PCT V1.0
 An advanced administration bot based on https://valtman.name/telegram-cli
 
-》https://github.com/ProtectionTeam/PCT
+》https://github.com/samyar-salehi/PCT
 
 Admins :
-@CliFather 》 Founder & Developer
-@aliaz003 》 Developer & Sponser
-@MahDiRoO 》 Developer 
-@MH_DM 》 Manager 
+@ssss3456 》 Founder & Developer
+@ssss3456 》 Developer & Sponser
+@ssss3456 》 Developer 
+@ssss3456 》 Manager 
 
 
 Special thanks to :
@@ -106,7 +106,7 @@ Special thanks to :
 And Beyond Team Members
 
 Our channel :
-@ProtectionTeam
+@ssss3456
 ]],
   }
 	serialize_to_file(config, './data/config.lua')
