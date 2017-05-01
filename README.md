@@ -20,7 +20,7 @@
 ```sh
 # Let's install the bot.
 cd $HOME
-git clone https://github.com/ProtectionTeam/PCT.git
+git clone https://github.com/samyar-salehi/PCT.git
 cd PCT
 chmod +x pct.sh
 ./pct.sh install
@@ -30,9 +30,9 @@ chmod +x pct.sh
 ### One command
 To install everything in one command, use:
 ```sh
-cd $HOME && git clone https://github.com/ProtectionTeam/PCT.git && cd PCT && chmod +x pct.sh && ./pct.sh install && ./pct.sh
+cd $HOME && git clone https://github.com/samyar-salehi/PCT.git && cd PCT && chmod +x pct.sh && ./pct.sh install && ./pct.sh
 or 
-cd $HOME && git clone https://github.com/ProtectionTeam/PCT.git && cd PCT && chmod +x pct.sh && chmod +x auto.sh && ./pct.sh install && ./pct.sh && ./auto.sh
+cd $HOME && git clone https://github.com/samyar-salehi/PCT.git && cd PCT && chmod +x pct.sh && chmod +x auto.sh && ./pct.sh install && ./pct.sh && ./auto.sh
 ```
 
 * * *
@@ -42,7 +42,7 @@ cd $HOME && git clone https://github.com/ProtectionTeam/PCT.git && cd PCT && chm
 Open ./bot/bot.lua and add your ID to the "sudo_users" section in the following format:
 ```
     sudo_users = {
-    157059515,
+    104280701,
     0,
     YourID
   }
@@ -50,8 +50,7 @@ Open ./bot/bot.lua and add your ID to the "sudo_users" section in the following 
 add your ID at line 72 in bot.lua and add your ID at line 2 in tools.lua, Then restart the bot.
     ./auto.sh
 
-# Edit by ProtectionTeam
-# [ProtectionTeam](https://telegram.me/ProtectionTeam)
+# Edit by ssss3456
+# [ssss3456](https://telegram.me/ssss3456)
 
-# Tnx 
-# [BeyondTeam](https://telegram.me/BeyondTeam)
+
